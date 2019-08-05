@@ -1,6 +1,3 @@
-# Linebot-Toutorial
-Node.js LINE bot and setup on Heroku for LINE bot API
-
 # line-bot-Tutorial
 
  教你建立自己的 line-bot 使用 Node.js 建置到 Heroku 📝
@@ -44,7 +41,7 @@ Use this QR code to add your bot as a friend for testing or link [https://line.m
 ![alt tag](https://i.imgur.com/T0TLJfj.png)
 
 
-## 執行環境
+## 功能
 
 * 功能陸續新增中
 
