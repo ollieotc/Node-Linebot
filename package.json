@@ -1,0 +1,15 @@
+{
+  "name": "lineBot",
+  "version": "1.0.0",
+  "description": "Node.js SDK for the LINE Messaging API",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ."
+  },
+  "author": "Ollie",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "linebot": "^1.5.3"
+  }
+}
